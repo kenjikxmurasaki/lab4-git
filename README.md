@@ -5,8 +5,7 @@
 
 ## "Торгівельним автомат"
 # CI/CD Calculator Project
-
-![CI](https://github.com/kenjikxmurasaki/lab4-git/actions/workflows/python-app.yml/badge.svg)
+[![Python CI Application](https://github.com/kenjikxmurasaki/lab4-git/actions/workflows/python-app.yml/badge.svg)](https://github.com/kenjikxmurasaki/lab4-git/actions/workflows/python-app.yml)
 
 ## Опис
 Проєкт демонструє CI/CD pipeline на GitHub Actions.
